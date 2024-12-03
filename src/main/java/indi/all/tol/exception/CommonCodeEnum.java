@@ -63,7 +63,7 @@ public enum CommonCodeEnum {
     COMMON_CODE_501("501", "尚未实施"),
     COMMON_CODE_502("502", "错误网关"),
     COMMON_CODE_503("503", "服务不可用"),
-    COMMON_CODE_504("5041", "网关超时");
+    COMMON_CODE_504("504", "网关超时");
 
     private final String code;
     private final String description;
